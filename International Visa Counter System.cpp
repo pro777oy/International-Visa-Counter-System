@@ -1,9 +1,5 @@
 /*
-GROUP MINI PROJECT- UTM International Visa Counter System
-GROUP MEMBERS:
- 1. Abdelrahman Taher
- 2. Saad Kabir Uddin
- 3. Abdrahman Ahmed
+  Saad Kabir Uddin
 */
 
 #include <iostream>
